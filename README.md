@@ -2,4 +2,4 @@
 
 ## Authors
 Vowa
-Flor
+Flora
